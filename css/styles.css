@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+#button {
+     padding:10px;
+	 color: #fff;
+	 font-family: 'Source Sans Pro', sans-serif;
+}
+ 
+.btn {
+    border: 1px solid #00a8c8;
+	border-radius:3px;
+	background-color: #00a8c8;
+
+
+}
+
+.btn:hover {
+	background-color: #bfbfbf;
+}
+
